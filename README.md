@@ -1,6 +1,6 @@
 ![division](division.png)
 
-[Base16](http://chriskempson.com/projects/base16/) color theme
+[Base16](http://chriskempson.com/projects/base16/) color theme inspired by [SMYCK](http://color.smyck.org) colors but with more saturation
 
 ![colors](images/colors.png)
 
