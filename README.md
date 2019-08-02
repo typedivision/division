@@ -15,3 +15,7 @@
 ## tig
 
 ![tig](images/tig.png)
+
+## ranger
+
+![tig](images/ranger.png)
